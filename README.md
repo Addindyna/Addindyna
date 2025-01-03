@@ -1,6 +1,6 @@
 - Hello there, I’m Dyna 👋
 - 🎯 I’m interested in bridging data with business growth
-- 🌱 Currently learning Power BI for PL-300 exam 
+- 🌱 Currently learning Power BI for PL-300 Microsoft Power BI Data Analyst exam 
 - 💞️ Contributing contents for [GetDoa](https://getdoa.com/)
 
 
