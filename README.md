@@ -1,4 +1,4 @@
-- Hello there, I’m Dina 👋
+- Hello there, I’m Dyna 👋
 - 🎯 I’m interested in bridging data with business growth
 - 🌱 Currently learning Power BI for PL-300 exam 
 - 💞️ Contributing contents for [GetDoa](https://getdoa.com/)
